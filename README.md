@@ -1,6 +1,6 @@
 # LFP-Plate
 
-The LFP (Local Field Potential) Plate is a tool used in the implantation of multi-site LFP electrodes. The design can be customized to each surgery, depending on the desired coordinates and depths of the electrodes. Bundles of electrodes are routed through each hole and fixed in place, then using the length of the "guide rods", are cut to the appropriate height using sharp scissors. 
+The LFP Plate is a tool used in the implantation of multi-site Local Field Potential (LFP) electrodes. The design can be customized to each surgery, depending on the desired coordinates and depths of the electrodes. Bundles of electrodes are routed through each hole and fixed in place, then using the length of the "guide rods", are cut to the appropriate height using sharp scissors. 
 
 Guide rods are placed next to the 0.75mm diameter holes (height = depth from bregma + 3 mm). 
 

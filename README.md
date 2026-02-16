@@ -9,7 +9,7 @@ There is a 0.6mm handle on the side that is useful during implant preparation an
 
 ## Hardware
 
-All files were printed using a Form3+ Printer, using GreyV4 resin\
+All files were printed using a Form3+ Printer, using GreyV4 resin
 
 Print Settings:
 

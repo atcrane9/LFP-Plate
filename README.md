@@ -12,14 +12,9 @@ There is a 0.6mm handle on the side that is useful during implant preparation an
 All files were printed using a Form3+ Printer, using GreyV4 resin
 
 Print Settings:
-
-Form3+ Printer
-PreForm Slicer 3.50.2.555
-GreyV4 resin
-Adaptive Layer Thickness
-Default Print Settings (PreForm v2.0, 244rgg-17z7za)
-Firmware 2.5.3
-
+* Adaptive Layer Thickness
+* Default Print Settings (PreForm v2.0, 244rgg-17z7za)
+* Firmware 2.5.3
 
 <!--### edit
 Painter's tape was put on print bed to increase print adhesion with bed

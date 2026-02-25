@@ -11,42 +11,21 @@ There is a 0.6mm handle on the side that is useful during implant preparation an
 
 All files were printed using a Form3+ Printer, using GreyV4 resin
 
-Print Settings:
-* Adaptive Layer Thickness
-* Default Print Settings (PreForm v2.0, 244rgg-17z7za)
-* Firmware 2.5.3
+### Post-Print Instructions
 
-<!--### edit
-Painter's tape was put on print bed to increase print adhesion with bed
-* Make sure tape is completely flat
-* No gaps between tape pieces
-* If tape tears when removing print, replace with new piece
-  
-Nozzles used were either 0.4mm or 0.6mm, depending on specific part (Instructions for changing the nozzles [here](https://help.prusa3d.com/article/changing-or-replacing-the-nozzle-mk2-5-s-mk3-s-mk3-5-s_2069))
-* **<ins>Must</ins>** be printed using **<ins>0.4mm nozzle</ins>**
-  * [Cap](STL_Files/ISIA_Cap.stl)
-  * [Adapter](STL_Files/ISIA_Adapter.stl)
-  * [Inner Gate](STL_Files/ISIA_Inner_Gate.stl)
-  * [Outer Gate](STL_Files/ISIA_Outer_Gate.stl)
-
-_Note: These 4 parts contain threads that allow them to screw together. However, the threads must be "broken in" after printing, which is done by repeatedly screwing/unscrewing the parts with each other until they can easily twist the full range with minimal friction._
-
-* Can be printed using **<ins>0.6mm nozzle</ins>**
-  * [Tube](STL_Files/ISIA_Tube.stl)
-  * [Restrictor](STL_Files/ISIA_Restrictor.stl)
-
-_Note: While all other parts are reusable between experiments after cleaning, the Restictors are not resuasble, as the restricted mice often slightly chew on them in an attempt to reach the other cage. We advise printing new Restrictors for each experiment, and disposing of them when the experiment ends._
--->
+After print is finished:
+* Submerge parts in a 99% isopropyl alcohol bath for 15 minutes
+* Move and submerge parts in a second 99% isopropyl alcohol bath for another 15 minutes
+* Put parts into a FormCure V1, at 60°C for 1 hour
 
 ## Software
 
 All parts sliced (aka rendered) using PreForm Slicer 3.50.2.555
 
-### Key Settings
-* Grey V4 resin
+### Key Print Settings
 * Adaptive layer thickness
 * Default print settings
-   * v2.0
+   * PreForm v2.0, 244rgg-17z7za
 * Firmware 2.5.3
 
 Make sure to orient print at a slight angle, and position the guide rods away from the print bed 

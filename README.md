@@ -81,16 +81,17 @@ Machine generating current is sending it to a saline bath, and then back to the 
 8.	Repeat as needed
 9.	Once everything is at a good impedance, protect the implants from dust/damage. Implant within the next 1-2 days (I don’t actually know that the signal quality is worse if you implant later)
 
-Implant on mouse
-1.	Same surgery protocol as any other, but note the following:
-  a.	Drill the holes a little larger so it’s easier to clear the dura without much cortical damage
-  b.	Do dummy screw for the EEG and ground holes (AP: -5.3mm (OR -5.6mm; and ~0.2mm ML. – try not to get all way - halfway so the screw is in the skull
-  c.	Then lower the LFP wires.
-    i.	Zero the DV when the longest wire touches the surface of the brain
-    ii.	Lower to final position (no need to go super slowly if implanting to the cortex because the wires are fairly thick)
-    iii.	If wires bend when they touch brain’s surface, the dura wasn’t cleared well. Raise wires and remove dura, then try again.
-  d.	Cement wires and much of the connector in place
-    i.	Make note of which electrode (and it’s position on the connector) will be implanted in frontal vs parietal EEG (if you will analyze these separately)
-  e.	Then implant EEG and ground screws, and optic fiber
-  f.	Make sure some of the cement surrounds the black part of the connector, because otherwise, the pressure from connecting/disconnecting cables can result in the connector coming off from the implant.
+Implant on mouse\
+Same surgery protocol as any other, but note the following:
+  - Drill the holes a little larger so it’s easier to clear the dura without much cortical damage
+  - Do dummy screw for the EEG and ground holes (AP: -5.3mm OR -5.6mm; and ~0.2mm ML)
+    - try not to get all way -> halfway so the screw is in the skull
+  - Then lower the LFP wires.
+    - Zero the DV when the longest wire touches the surface of the brain
+    - Lower to final position (no need to go super slowly if implanting to the cortex because the wires are fairly thick)
+    - If wires bend when they touch brain’s surface, the dura wasn’t cleared well. Raise wires and remove dura, then try again.
+  - Cement wires and much of the connector in place
+    - Make note of which electrode (and it’s position on the connector) will be implanted in frontal vs parietal EEG (if you will analyze these separately)
+  - Then implant EEG and ground screws, and optic fiber
+  - Make sure some of the cement surrounds the black part of the connector, because otherwise, the pressure from connecting/disconnecting cables can result in the connector coming off from the implant.
 

@@ -1,5 +1,7 @@
 # LFP-Plate
 
+The link to the paper that this tool was commissioned for can be found here -> DOI: [10.1126/sciadv.adw7427](h ttps://doi.org/10.1126/sciadv.adw7427)
+
 The LFP Plate is a tool used in the implantation of multi-site Local Field Potential (LFP) electrodes. The design can be customized to each surgery, depending on the desired coordinates and depths of the electrodes. Bundles of electrodes are routed through each hole and fixed in place, then using the length of the "guide rods", are cut to the appropriate height using sharp scissors. 
 
 Guide rods are placed next to the 0.75mm diameter holes (height = depth from bregma + 3 mm). 
@@ -95,3 +97,8 @@ Same surgery protocol as any other, but note the following:
   - Then implant EEG and ground screws, and optic fiber
   - Make sure some of the cement surrounds the black part of the connector, because otherwise, the pressure from connecting/disconnecting cables can result in the connector coming off from the implant.
 
+
+# Acknowledgments
+
+* Original design by [Aaron Crane](https://github.com/atcrane9)
+* Commissioned by Alika Sulaman and [The AER Lab](https://github.com/AER-Lab)

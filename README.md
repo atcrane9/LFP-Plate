@@ -22,7 +22,7 @@ After print is finished:
 
 ## Software
 
-3D models are edited using Autodesk Fusion360, and finished models are sliced (aka rendered) using PreForm Slicer 3.50.2.555
+3D models can be edited using any CAD software (Autodesk Fusion360 used in our case), and finished models were sliced (aka rendered) using PreForm Slicer 3.50.2.555
 
 ### Key Print Settings
 * Adaptive layer thickness

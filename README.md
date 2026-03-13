@@ -30,7 +30,10 @@ After print is finished:
    * PreForm v2.0, 244rgg-17z7za
 * Firmware 2.5.3
 
-Make sure to orient print at a slight angle, and position the guide rods away from the print bed 
+Make sure to orient print at a slight angle, and position the guide rods away from the print bed, like so:
+<p>
+    <img src=Images/.jpg height="290">
+   </p>
 
 # Implant Preparation
 

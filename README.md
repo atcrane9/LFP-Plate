@@ -19,6 +19,8 @@ After print is finished:
 * Submerge parts in a 99% isopropyl alcohol bath for 15 minutes
 * Move and submerge parts in a second 99% isopropyl alcohol bath for another 15 minutes
 * Put parts into a FormCure V1, at 60°C for 1 hour
+* After curing, use clippers to remove supports
+  * Be careful to not clip off the guide rods
 
 ## Software
 
